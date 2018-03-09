@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marcin Wydrzyński",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-ssh": "^5.1.1"
   }
